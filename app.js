@@ -1,3 +1,3 @@
 function greet(){
-    console.log("Hello from Master Branch")
+    console.log("Hello from Both Branch!");
 }
